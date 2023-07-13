@@ -360,7 +360,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 60vh;
 }
 
 #contact__text{
@@ -398,8 +398,6 @@ article .icon {
   height: 2.5rem;
 }
 
-/* FOOTER SECTION */
-
 footer {
   height: 26vh;
   margin: 0 1rem;
@@ -409,7 +407,7 @@ footer p {
   text-align: center;
 }
 
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 1920px) and (min-width: 1080px) {
   #profile {
     height: 83vh;
     margin-bottom: 6rem;
