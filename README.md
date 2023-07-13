@@ -51,12 +51,16 @@ GitHub Repository: https://github.com/ClaudiaCalero/To-Do-Project
 
 # Contact Me
 Email: claudiaclrduro@gmail.com
+</br>
 LinkedIn: https://www.linkedin.com/in/claudia-calero/
-
+</br>
 
 Feel free to reach out to me if you have any inquiries, collaboration opportunities, or if you'd like to connect professionally. I look forward to discussing how I can contribute to your team or project. Let's build something amazing together!
 
 Thank you for visiting my portfolio!
 
 Best regards,
+</br>
 Clàudia Calero Duró
+
+
